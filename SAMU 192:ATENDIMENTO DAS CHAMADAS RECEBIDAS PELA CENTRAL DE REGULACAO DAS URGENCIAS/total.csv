@@ -1,0 +1,45 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovada por Capital e Ano processamento
+Capital: 110020 Porto Velho, 120040 Rio Branco, 130260 Manaus, 140010 Boa Vista, 150140 Belém, 160030 Macapá, 172100 Palmas, 211130 São Luís, 221100 Teresina, 230440 Fortaleza, 240810 Natal, 250750 João Pessoa, 261160 Recife, 270430 Maceió, 280030 Aracaju, 292740 Salvador, 310620 Belo Horizonte, 320530 Vitória, 330455 Rio de Janeiro, 355030 São Paulo, 410690 Curitiba, 420540 Florianópolis, 431490 Porto Alegre, 500270 Campo Grande, 510340 Cuiabá, 520870 Goiânia, 530010 Brasília
+Procedimento: 0301030014 SAMU 192:ATENDIMENTO DAS CHAMADAS RECEBIDAS PELA CENTRAL DE REGULACAO DAS URGENCIAS
+Período:2018-2020
+"Capital";"2018";"2019";"2020";"Total"
+"110020 Porto Velho";19046;14094;38209;71349
+"120040 Rio Branco";38294;36535;40451;115280
+"130260 Manaus";519286;385854;259831;1164971
+"140010 Boa Vista";26695;26403;24904;78002
+"150140 Belém";329613;268156;245647;843416
+"160030 Macapá";66613;68507;53591;188711
+"172100 Palmas";29501;34948;32218;96667
+"211130 São Luís";136533;128038;194137;458708
+"221100 Teresina";123844;93475;187238;404557
+"230440 Fortaleza";108000;108000;214458;430458
+"240810 Natal";54963;36733;100923;192619
+"250750 João Pessoa";-;255172;327743;582915
+"261160 Recife";578792;581529;811001;1971322
+"270430 Maceió";366206;146996;107053;620255
+"280030 Aracaju";328435;378715;394852;1102002
+"292740 Salvador";441853;378587;433258;1253698
+"310620 Belo Horizonte";520764;571238;524122;1616124
+"320530 Vitória";735801;651519;467416;1854736
+"330455 Rio de Janeiro";1087836;1008447;74081;2170364
+"355030 São Paulo";1844658;1626138;1269674;4740470
+"410690 Curitiba";272061;379308;441955;1093324
+"420540 Florianópolis";117602;134021;115194;366817
+"431490 Porto Alegre";299183;235703;276201;811087
+"500270 Campo Grande";454892;403514;286866;1145272
+"510340 Cuiabá";120830;137408;129870;388108
+"520870 Goiânia";59394;77114;63072;199580
+"530010 Brasília";904352;863980;786483;2554815
+"Total";9585047;9030132;7900448;26515627
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
