@@ -1,0 +1,45 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovada por Capital e Ano processamento
+Capital: 110020 Porto Velho, 120040 Rio Branco, 130260 Manaus, 140010 Boa Vista, 150140 Belém, 160030 Macapá, 172100 Palmas, 211130 São Luís, 221100 Teresina, 230440 Fortaleza, 240810 Natal, 250750 João Pessoa, 261160 Recife, 270430 Maceió, 280030 Aracaju, 292740 Salvador, 310620 Belo Horizonte, 320530 Vitória, 330455 Rio de Janeiro, 355030 São Paulo, 410690 Curitiba, 420540 Florianópolis, 431490 Porto Alegre, 500270 Campo Grande, 510340 Cuiabá, 520870 Goiânia, 530010 Brasília
+Procedimento: 0301060029 ATENDIMENTO DE URGENCIA C/ OBSERVACAO ATE 24 HORAS EM ATENCAO ESPECIALIZADA
+Período:2022-2023
+"Capital";"2022";"2023";"Total"
+"110020 Porto Velho";203633;202407;406040
+"120040 Rio Branco";43775;78421;122196
+"130260 Manaus";540726;517969;1058695
+"140010 Boa Vista";63951;71486;135437
+"150140 Belém";218999;245285;464284
+"160030 Macapá";165541;399808;565349
+"172100 Palmas";61939;47839;109778
+"211130 São Luís";306134;290681;596815
+"221100 Teresina";79270;67145;146415
+"230440 Fortaleza";1102046;1104404;2206450
+"240810 Natal";353954;374268;728222
+"250750 João Pessoa";157228;196798;354026
+"261160 Recife";285128;568605;853733
+"270430 Maceió";316043;307487;623530
+"280030 Aracaju";426466;471678;898144
+"292740 Salvador";505179;504153;1009332
+"310620 Belo Horizonte";540572;558770;1099342
+"320530 Vitória";105520;105711;211231
+"330455 Rio de Janeiro";794547;1191395;1985942
+"355030 São Paulo";654011;580467;1234478
+"410690 Curitiba";443101;500797;943898
+"420540 Florianópolis";114312;179083;293395
+"431490 Porto Alegre";192848;226793;419641
+"500270 Campo Grande";134432;144062;278494
+"510340 Cuiabá";186378;173793;360171
+"520870 Goiânia";172749;210968;383717
+"530010 Brasília";544557;706511;1251068
+"Total";8713039;10026784;18739823
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
