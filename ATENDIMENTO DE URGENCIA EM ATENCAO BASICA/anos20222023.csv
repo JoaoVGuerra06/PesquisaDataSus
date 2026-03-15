@@ -1,0 +1,44 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovada por Capital e Ano processamento
+Capital: 110020 Porto Velho, 120040 Rio Branco, 130260 Manaus, 140010 Boa Vista, 150140 Belém, 160030 Macapá, 172100 Palmas, 211130 São Luís, 221100 Teresina, 230440 Fortaleza, 240810 Natal, 250750 João Pessoa, 261160 Recife, 270430 Maceió, 280030 Aracaju, 292740 Salvador, 310620 Belo Horizonte, 320530 Vitória, 330455 Rio de Janeiro, 355030 São Paulo, 410690 Curitiba, 420540 Florianópolis, 431490 Porto Alegre, 500270 Campo Grande, 510340 Cuiabá, 520870 Goiânia, 530010 Brasília
+Procedimento: 0301060037 ATENDIMENTO DE URGENCIA EM ATENCAO BASICA
+Período:2022-2023
+"Capital";"2022";"2023";"Total"
+"120040 Rio Branco";8830;11585;20415
+"130260 Manaus";2996;8177;11173
+"140010 Boa Vista";50;116;166
+"150140 Belém";102998;93117;196115
+"160030 Macapá";14987;-;14987
+"172100 Palmas";1;453;454
+"211130 São Luís";204;326;530
+"221100 Teresina";20239;3;20242
+"230440 Fortaleza";9;43;52
+"240810 Natal";55441;55549;110990
+"250750 João Pessoa";8;1445;1453
+"261160 Recife";10227;11236;21463
+"270430 Maceió";3;-;3
+"280030 Aracaju";91;715;806
+"292740 Salvador";14284;4334;18618
+"310620 Belo Horizonte";2228;1931;4159
+"320530 Vitória";6;7;13
+"330455 Rio de Janeiro";64734;139759;204493
+"355030 São Paulo";5561000;5794755;11355755
+"410690 Curitiba";47793;53713;101506
+"420540 Florianópolis";11319;12833;24152
+"431490 Porto Alegre";8878;6604;15482
+"500270 Campo Grande";1143;1722;2865
+"510340 Cuiabá";4497;1697;6194
+"520870 Goiânia";12224;16470;28694
+"530010 Brasília";1205;335;1540
+"Total";5945395;6216925;12162320
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
