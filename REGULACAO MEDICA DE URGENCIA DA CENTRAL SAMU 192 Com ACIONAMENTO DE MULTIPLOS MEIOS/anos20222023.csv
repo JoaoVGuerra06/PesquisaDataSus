@@ -1,0 +1,23 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovada por Capital e Ano atendimento
+Capital: 110020 Porto Velho, 120040 Rio Branco, 130260 Manaus, 140010 Boa Vista, 150140 Belém, 160030 Macapá, 172100 Palmas, 211130 São Luís, 221100 Teresina, 230440 Fortaleza, 240810 Natal, 250750 João Pessoa, 261160 Recife, 270430 Maceió, 280030 Aracaju, 292740 Salvador, 310620 Belo Horizonte, 320530 Vitória, 330455 Rio de Janeiro, 355030 São Paulo, 410690 Curitiba, 420540 Florianópolis, 431490 Porto Alegre, 500270 Campo Grande, 510340 Cuiabá, 520870 Goiânia, 530010 Brasília
+Procedimento: 0301030111 REGULACAO MEDICA DE URGENCIA DA CENTRAL SAMU 192 C/ ACIONAMENTO DE MULTIPLOS MEIOS
+Período:2022-2023
+"Capital";"2022";"2023";"Total"
+"130260 Manaus";1133;1639;2772
+"270430 Maceió";3809;4012;7821
+"355030 São Paulo";22153;19117;41270
+"431490 Porto Alegre";2104;4655;6759
+"530010 Brasília";594;628;1222
+"Total";29793;30051;59844
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 

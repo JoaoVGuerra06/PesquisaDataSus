@@ -1,0 +1,27 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovada por Capital e Ano/mês atendimento
+Capital: 110020 Porto Velho, 120040 Rio Branco, 130260 Manaus, 140010 Boa Vista, 150140 Belém, 160030 Macapá, 172100 Palmas, 211130 São Luís, 221100 Teresina, 230440 Fortaleza, 240810 Natal, 250750 João Pessoa, 261160 Recife, 270430 Maceió, 280030 Aracaju, 292740 Salvador, 310620 Belo Horizonte, 320530 Vitória, 330455 Rio de Janeiro, 355030 São Paulo, 410690 Curitiba, 420540 Florianópolis, 431490 Porto Alegre, 500270 Campo Grande, 510340 Cuiabá, 520870 Goiânia, 530010 Brasília
+Procedimento: 0301030111 REGULACAO MEDICA DE URGENCIA DA CENTRAL SAMU 192 C/ ACIONAMENTO DE MULTIPLOS MEIOS
+Período:2018-2020
+"Capital";"2018/Jan";"2018/Fev";"2018/Mar";"2018/Abr";"2018/Mai";"2018/Jun";"2018/Jul";"2018/Ago";"2018/Set";"2018/Out";"2018/Nov";"2018/Dez";"2019/Jan";"2019/Fev";"2019/Mar";"2019/Abr";"2019/Mai";"2019/Jun";"2019/Jul";"2019/Ago";"2019/Set";"2019/Out";"2019/Nov";"2019/Dez";"2020/Jan";"2020/Fev";"2020/Mar";"2020/Abr";"2020/Mai";"2020/Jun";"2020/Jul";"2020/Ago";"2020/Set";"2020/Out";"2020/Nov";"2020/Dez";"Total"
+"130260 Manaus";196;198;187;190;192;190;193;195;189;180;177;180;175;170;173;157;185;190;201;150;6465;185;64;123;117;81;-;81;-;-;115;65;111;118;163;166;11522
+"221100 Teresina";24;45;34;-;-;9;28;28;13;16;138;133;129;-;-;-;367;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;964
+"230440 Fortaleza";420;420;420;420;420;420;-;-;420;420;420;420;420;420;420;420;420;420;420;420;420;420;420;420;420;420;420;420;420;420;420;11000;11000;10542;11000;10340;66062
+"270430 Maceió";163;121;186;124;94;139;62;172;149;178;141;141;178;232;227;253;250;256;227;200;355;402;299;370;314;320;320;-;125;104;196;196;280;283;280;254;7591
+"320530 Vitória";237;221;315;345;337;370;371;388;383;382;343;352;321;364;338;367;395;412;212;412;393;462;377;430;338;320;240;319;488;407;352;408;354;376;349;383;12861
+"330455 Rio de Janeiro";11420;10241;12310;12021;13144;12157;11006;10948;10957;10915;10956;12422;8312;6765;8179;7971;8483;7350;6911;6613;6914;7536;6674;7313;6824;7011;7077;-;-;-;-;-;-;-;-;-;248430
+"355030 São Paulo";1512;1128;2265;1954;1562;1865;1672;1752;1829;1535;1428;1936;1722;1108;1412;1356;1628;1503;1512;1449;1254;1732;1986;1529;1612;1272;1995;1832;1296;1312;1526;1423;1224;1357;1388;2823;57689
+"431490 Porto Alegre";163;170;145;-;129;-;143;-;-;110;111;107;135;115;114;101;125;136;149;118;142;137;-;136;130;85;114;106;105;121;125;123;136;134;119;132;3916
+"530010 Brasília";476;455;547;485;593;480;599;600;441;391;351;452;296;359;290;92;96;92;63;83;112;74;82;70;51;58;58;37;42;68;57;67;41;56;63;50;8227
+"Total";14611;12999;16409;15539;16471;15630;14074;14083;14381;14127;14065;16143;11688;9533;11153;10717;11949;10359;9695;9445;16055;10948;9902;10391;9806;9567;10224;2795;2476;2432;2791;13282;13146;12866;13362;14148;417262
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 

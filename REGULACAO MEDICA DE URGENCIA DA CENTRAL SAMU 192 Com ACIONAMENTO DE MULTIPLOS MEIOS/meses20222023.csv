@@ -1,0 +1,23 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovada por Capital e Ano/mês atendimento
+Capital: 110020 Porto Velho, 120040 Rio Branco, 130260 Manaus, 140010 Boa Vista, 150140 Belém, 160030 Macapá, 172100 Palmas, 211130 São Luís, 221100 Teresina, 230440 Fortaleza, 240810 Natal, 250750 João Pessoa, 261160 Recife, 270430 Maceió, 280030 Aracaju, 292740 Salvador, 310620 Belo Horizonte, 320530 Vitória, 330455 Rio de Janeiro, 355030 São Paulo, 410690 Curitiba, 420540 Florianópolis, 431490 Porto Alegre, 500270 Campo Grande, 510340 Cuiabá, 520870 Goiânia, 530010 Brasília
+Procedimento: 0301030111 REGULACAO MEDICA DE URGENCIA DA CENTRAL SAMU 192 C/ ACIONAMENTO DE MULTIPLOS MEIOS
+Período:2022-2023
+"Capital";"2022/Jan";"2022/Fev";"2022/Mar";"2022/Abr";"2022/Mai";"2022/Jun";"2022/Jul";"2022/Ago";"2022/Set";"2022/Out";"2022/Nov";"2022/Dez";"2023/Jan";"2023/Fev";"2023/Mar";"2023/Abr";"2023/Mai";"2023/Jun";"2023/Jul";"2023/Ago";"2023/Set";"2023/Out";"2023/Nov";"2023/Dez";"Total"
+"130260 Manaus";112;151;139;14;84;83;122;50;84;115;162;17;346;67;179;93;314;161;139;42;6;135;55;102;2772
+"270430 Maceió";258;263;313;349;327;304;352;310;299;310;328;396;349;354;360;312;385;333;333;290;321;360;289;326;7821
+"355030 São Paulo";1648;1794;1975;1833;1926;1854;1926;2080;1725;1540;1926;1926;1439;1459;1560;1592;1777;-;1591;1691;1561;1637;1968;2842;41270
+"431490 Porto Alegre";126;103;119;124;118;141;126;119;142;318;334;334;343;319;396;391;430;424;442;405;404;444;161;496;6759
+"530010 Brasília";34;33;47;59;53;40;57;50;74;55;43;49;42;52;48;60;48;48;60;43;63;69;43;52;1222
+"Total";2178;2344;2593;2379;2508;2422;2583;2609;2324;2338;2793;2722;2519;2251;2543;2448;2954;966;2565;2471;2355;2645;2516;3818;59844
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
