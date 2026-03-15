@@ -1,0 +1,44 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovada por Capital e Ano processamento
+Capital: 110020 Porto Velho, 120040 Rio Branco, 130260 Manaus, 140010 Boa Vista, 150140 Belém, 160030 Macapá, 172100 Palmas, 211130 São Luís, 221100 Teresina, 230440 Fortaleza, 240810 Natal, 250750 João Pessoa, 261160 Recife, 270430 Maceió, 280030 Aracaju, 292740 Salvador, 310620 Belo Horizonte, 320530 Vitória, 330455 Rio de Janeiro, 355030 São Paulo, 410690 Curitiba, 420540 Florianópolis, 431490 Porto Alegre, 500270 Campo Grande, 510340 Cuiabá, 520870 Goiânia, 530010 Brasília
+Procedimento: 0301030146 SAMU 192: ATENDIMENTO DAS CHAMADAS RECEBIDAS PELA CENTRAL DE REGULACAO DAS URGENCIAS COM ORIENTAC
+Período:2022-2023
+"Capital";"2022";"2023";"Total"
+"110020 Porto Velho";3545;1888;5433
+"120040 Rio Branco";1771;919;2690
+"130260 Manaus";1237;1968;3205
+"140010 Boa Vista";10923;12371;23294
+"150140 Belém";80499;65532;146031
+"160030 Macapá";7119;5542;12661
+"172100 Palmas";10768;9279;20047
+"211130 São Luís";17580;16073;33653
+"221100 Teresina";11952;6457;18409
+"230440 Fortaleza";6590;2993;9583
+"240810 Natal";13465;12098;25563
+"250750 João Pessoa";6097;4699;10796
+"261160 Recife";126112;130679;256791
+"270430 Maceió";3475;7211;10686
+"280030 Aracaju";4959;3209;8168
+"292740 Salvador";293050;358129;651179
+"310620 Belo Horizonte";122402;119774;242176
+"330455 Rio de Janeiro";179200;202694;381894
+"355030 São Paulo";389312;373498;762810
+"410690 Curitiba";23493;17903;41396
+"420540 Florianópolis";20255;23123;43378
+"431490 Porto Alegre";189103;244464;433567
+"500270 Campo Grande";586;519;1105
+"510340 Cuiabá";19509;13794;33303
+"520870 Goiânia";16753;13657;30410
+"530010 Brasília";89781;88502;178283
+"Total";1649536;1736975;3386511
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
